@@ -17,15 +17,17 @@ algorithms, implemented in Python.
 
 ## Contents
 
+```
 HandbookCode/
-├── 01.py       # Chapter 1: Autoregressive Integrated Moving Average (ARIMA)
-├── 02.py       # Chapter 2: Linear Trend and Momentum Forecasting
-├── 03.py       # Chapter 3: Vector Autoregressive Models
-├── 04.py       # Chapter 4: Granger Causality
-├── 05.ipynb    # Chapter 5: Simplex and S-map Projections
-├── 06.ipynb    # Chapter 6: Convergent Cross Mapping and Sugihara Causality
-├── 07.py       # Chapter 7: Cross-Correlations, Fourier and Wavelet Transform
-└── 08.ipynb    # Chapter 8: Winningest Methods
+    01.py       Chapter 1: Autoregressive Integrated Moving Average (ARIMA)
+    02.py       Chapter 2: Linear Trend and Momentum Forecasting
+    03.py       Chapter 3: Vector Autoregressive Models
+    04.py       Chapter 4: Granger Causality
+    05.ipynb    Chapter 5: Simplex and S-map Projections
+    06.ipynb    Chapter 6: Convergent Cross Mapping and Sugihara Causality
+    07.py       Chapter 7: Cross-Correlations, Fourier and Wavelet Transform
+    08.ipynb    Chapter 8: Winningest Methods
+```
 
 ---
 
