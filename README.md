@@ -17,33 +17,19 @@ algorithms, implemented in Python.
 
 ## Contents
 
-- `preface_notebook.ipynb` — My worked-through recreation of the Preface chapter
-
-*(Update filenames/descriptions to match your actual repo structure)*
-
-## Citation
-
-See [Citation](#citation) section below.
+HandbookCode/
+├── 01.py       # Chapter 1: Autoregressive Integrated Moving Average (ARIMA)
+├── 02.py       # Chapter 2: Linear Trend and Momentum Forecasting
+├── 03.py       # Chapter 3: Vector Autoregressive Models
+├── 04.py       # Chapter 4: Granger Causality
+├── 05.ipynb    # Chapter 5: Simplex and S-map Projections
+├── 06.ipynb    # Chapter 6: Convergent Cross Mapping and Sugihara Causality
+├── 07.py       # Chapter 7: Cross-Correlations, Fourier and Wavelet Transform
+└── 08.ipynb    # Chapter 8: Winningest Methods
 
 ---
 
 ## Citation
-
-```bibtex
-@misc{tsa_handbook_2022,
-  author    = {Borja, Benjur Emmanuel and Chua, Gilbert Michael G. and 
-               Corpuz, Francis James and Dajac, Carlo Vincienzo and 
-               Ibañez, Sebastian C. and Javier, Prince Joseph Erneszer and 
-               Liponhay, Marissa P. and Ventura, Maria Eloisa M.},
-  title     = {Time Series Analysis Handbook},
-  year      = {2020},
-  publisher = {GitHub},
-  journal   = {GitHub repository},
-  howpublished = {\url{https://phdinds-aim.github.io/time_series_handbook/}}
-}
-```
-
-Plain text citation:
 
 > Borja, B.E., Chua, G.M.G., Corpuz, F.J., Dajac, C.V., Ibañez, S.C., Javier, P.J.E.,
 > Liponhay, M.P., & Ventura, M.E.M. (2022). *Time Series Analysis Handbook*. GitHub.
